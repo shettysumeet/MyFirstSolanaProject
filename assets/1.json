@@ -1,0 +1,19 @@
+{
+  "name": "SOLENGENDS_1",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "8hRNxLsXrt3giWVdL4qGfQQrMwyQGxPvTpwBPhwuTsDq",
+        "share": 100
+      }
+    ]
+  }
+}
